@@ -118,7 +118,7 @@ export default function App() {
                 <div className="rounded-2xl border border-slate-200 bg-slate-50 p-5">
                   <span className="text-2xl">🎯</span>
                   <h3 className="mt-3 font-extrabold text-slate-900">Mon objectif</h3>
-                  <p className="mt-2 text-sm leading-6 text-slate-600">🎯 **Mon objectif**
+                  <p className="mt-2 text-sm leading-6 text-slate-600">🎯
 
 Mettre en pratique mes compétences en développement web Full-Stack pour concevoir des applications web fonctionnelles et intuitives, tout en continuant à développer mes compétences et à évoluer professionnellement.</p>
                 </div>
@@ -185,7 +185,7 @@ Apprendre continuellement, relever de nouveaux défis et mettre mes compétences
                 </div>
               </div>
             </article>
-            <p className="mt-5 text-sm text-slate-500">Tu peux ajouter d’autres projets en dupliquant cette carte dans le fichier <code className="rounded bg-slate-100 px-1.5 py-1">src/App.jsx</code>.</p>
+          
           </div>
         </section>
 
@@ -276,7 +276,7 @@ Apprendre continuellement, relever de nouveaux défis et mettre mes compétences
   <a
   href="/cv-hiba.pdf"
   download="CV-Hiba-Sedegui.pdf"
-  className="inline-flex items-center justify-center gap-2 rounded-full bg-white px-5 py-3 text-sm font-bold text-slate-900 transition hover:bg-indigo-100"
+  className="inline-flex items-center justify-center gap-2 rounded-full bg-black px-5 py-3 text-sm font-bold text-slate-900 transition hover:bg-indigo-100"
 >
   Télécharger mon CV <span aria-hidden="true">↓</span>
 </a>
